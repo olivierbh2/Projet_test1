@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "P:\\3- AUTOMNE 2023\\Développement d'applications (intermédiaire)\\Travaux\\Projet_Test\\TEST\\Projet_Test\\Projet_Test.csproj": {}
+    "P:\\Projet_test\\Projet_Test\\Projet_Test.csproj": {}
   },
   "projects": {
-    "P:\\3- AUTOMNE 2023\\Développement d'applications (intermédiaire)\\Travaux\\Projet_Test\\TEST\\Projet_Test\\Projet_Test.csproj": {
+    "P:\\Projet_test\\Projet_Test\\Projet_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\3- AUTOMNE 2023\\Développement d'applications (intermédiaire)\\Travaux\\Projet_Test\\TEST\\Projet_Test\\Projet_Test.csproj",
+        "projectUniqueName": "P:\\Projet_test\\Projet_Test\\Projet_Test.csproj",
         "projectName": "Projet_Test",
-        "projectPath": "P:\\3- AUTOMNE 2023\\Développement d'applications (intermédiaire)\\Travaux\\Projet_Test\\TEST\\Projet_Test\\Projet_Test.csproj",
-        "packagesPath": "C:\\Users\\1732451\\.nuget\\packages\\",
-        "outputPath": "P:\\3- AUTOMNE 2023\\Développement d'applications (intermédiaire)\\Travaux\\Projet_Test\\TEST\\Projet_Test\\obj\\",
+        "projectPath": "P:\\Projet_test\\Projet_Test\\Projet_Test.csproj",
+        "packagesPath": "C:\\Users\\2232274.SMI\\.nuget\\packages\\",
+        "outputPath": "P:\\Projet_test\\Projet_Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\1732451\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\2232274.SMI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
