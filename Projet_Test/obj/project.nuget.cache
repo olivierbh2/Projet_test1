@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "6Ve0bVfbuqTIru67WV6hBBqju1v8pK3RmucnXAk89iyw+SowJQkqUigy+DlJ792Iao47Rx9ry5yuU5a46eQQAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1832183\\Desktop\\Clone\\Projet_test1\\Projet_Test\\Projet_Test.csproj",
+=======
   "dgSpecHash": "dCooNZ7YFK4lMX8zKnN2Uu+6HYiYSVOkDLR4BRoh3oF2DWpi3QM55UYbTe89v/WhVl6HEvZAtYqNhG507NSKYQ==",
   "success": true,
   "projectFilePath": "P:\\Projet_test\\Projet_Test\\Projet_Test.csproj",
+>>>>>>> 97ee95070e77cd6281add31b43d5c95277dd0ffb
   "expectedPackageFiles": [],
   "logs": []
 }

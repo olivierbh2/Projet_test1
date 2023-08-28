@@ -7,9 +7,13 @@ namespace Projet_Test
        
         static void Main(string[] args)
         {
+<<<<<<< HEAD
+          
+=======
             Console.WriteLine("Hello World Bitch!");
 
 
+>>>>>>> master
             Console.Write("Please enter your name: ");
             string userName = Console.ReadLine();
 

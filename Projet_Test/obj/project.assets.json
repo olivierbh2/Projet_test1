@@ -8,23 +8,39 @@
     "net5.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
+    "C:\\Users\\1832183\\.nuget\\packages\\": {},
+=======
     "C:\\Users\\2232274.SMI\\.nuget\\packages\\": {},
+>>>>>>> 97ee95070e77cd6281add31b43d5c95277dd0ffb
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\1832183\\Desktop\\Clone\\Projet_test1\\Projet_Test\\Projet_Test.csproj",
+      "projectName": "Projet_Test",
+      "projectPath": "C:\\Users\\1832183\\Desktop\\Clone\\Projet_test1\\Projet_Test\\Projet_Test.csproj",
+      "packagesPath": "C:\\Users\\1832183\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\1832183\\Desktop\\Clone\\Projet_test1\\Projet_Test\\obj\\",
+=======
       "projectUniqueName": "P:\\Projet_test\\Projet_Test\\Projet_Test.csproj",
       "projectName": "Projet_Test",
       "projectPath": "P:\\Projet_test\\Projet_Test\\Projet_Test.csproj",
       "packagesPath": "C:\\Users\\2232274.SMI\\.nuget\\packages\\",
       "outputPath": "P:\\Projet_test\\Projet_Test\\obj\\",
+>>>>>>> 97ee95070e77cd6281add31b43d5c95277dd0ffb
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
+        "C:\\Users\\1832183\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
         "C:\\Users\\2232274.SMI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 97ee95070e77cd6281add31b43d5c95277dd0ffb
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

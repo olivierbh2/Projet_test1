@@ -14,3 +14,22 @@ P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet
 P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\obj\Debug\net5.0\Projet_Test.pdb
 P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\obj\Debug\net5.0\Projet_Test.genruntimeconfig.cache
 P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\obj\Debug\net5.0\ref\Projet_Test.dll
+<<<<<<< HEAD
+C:\Users\1832183\Desktop\Clone\Projet_test1\Projet_Test\bin\Debug\net5.0\Projet_Test.exe
+C:\Users\1832183\Desktop\Clone\Projet_test1\Projet_Test\bin\Debug\net5.0\Projet_Test.deps.json
+C:\Users\1832183\Desktop\Clone\Projet_test1\Projet_Test\bin\Debug\net5.0\Projet_Test.runtimeconfig.json
+C:\Users\1832183\Desktop\Clone\Projet_test1\Projet_Test\bin\Debug\net5.0\Projet_Test.runtimeconfig.dev.json
+C:\Users\1832183\Desktop\Clone\Projet_test1\Projet_Test\bin\Debug\net5.0\Projet_Test.dll
+C:\Users\1832183\Desktop\Clone\Projet_test1\Projet_Test\bin\Debug\net5.0\Projet_Test.pdb
+C:\Users\1832183\Desktop\Clone\Projet_test1\Projet_Test\obj\Debug\net5.0\Projet_Test.csproj.AssemblyReference.cache
+C:\Users\1832183\Desktop\Clone\Projet_test1\Projet_Test\obj\Debug\net5.0\Projet_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1832183\Desktop\Clone\Projet_test1\Projet_Test\obj\Debug\net5.0\Projet_Test.AssemblyInfoInputs.cache
+C:\Users\1832183\Desktop\Clone\Projet_test1\Projet_Test\obj\Debug\net5.0\Projet_Test.AssemblyInfo.cs
+C:\Users\1832183\Desktop\Clone\Projet_test1\Projet_Test\obj\Debug\net5.0\Projet_Test.csproj.CoreCompileInputs.cache
+C:\Users\1832183\Desktop\Clone\Projet_test1\Projet_Test\obj\Debug\net5.0\Projet_Test.dll
+C:\Users\1832183\Desktop\Clone\Projet_test1\Projet_Test\obj\Debug\net5.0\refint\Projet_Test.dll
+C:\Users\1832183\Desktop\Clone\Projet_test1\Projet_Test\obj\Debug\net5.0\Projet_Test.pdb
+C:\Users\1832183\Desktop\Clone\Projet_test1\Projet_Test\obj\Debug\net5.0\Projet_Test.genruntimeconfig.cache
+C:\Users\1832183\Desktop\Clone\Projet_test1\Projet_Test\obj\Debug\net5.0\ref\Projet_Test.dll
+=======
+>>>>>>> master
