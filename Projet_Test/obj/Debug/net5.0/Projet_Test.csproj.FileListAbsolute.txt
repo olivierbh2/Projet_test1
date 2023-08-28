@@ -1,0 +1,16 @@
+P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\obj\Debug\net5.0\Projet_Test.csproj.AssemblyReference.cache
+P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\obj\Debug\net5.0\Projet_Test.GeneratedMSBuildEditorConfig.editorconfig
+P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\obj\Debug\net5.0\Projet_Test.AssemblyInfoInputs.cache
+P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\obj\Debug\net5.0\Projet_Test.AssemblyInfo.cs
+P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\obj\Debug\net5.0\Projet_Test.csproj.CoreCompileInputs.cache
+P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\bin\Debug\net5.0\Projet_Test.exe
+P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\bin\Debug\net5.0\Projet_Test.deps.json
+P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\bin\Debug\net5.0\Projet_Test.runtimeconfig.json
+P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\bin\Debug\net5.0\Projet_Test.runtimeconfig.dev.json
+P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\bin\Debug\net5.0\Projet_Test.dll
+P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\bin\Debug\net5.0\Projet_Test.pdb
+P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\obj\Debug\net5.0\Projet_Test.dll
+P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\obj\Debug\net5.0\refint\Projet_Test.dll
+P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\obj\Debug\net5.0\Projet_Test.pdb
+P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\obj\Debug\net5.0\Projet_Test.genruntimeconfig.cache
+P:\3- AUTOMNE 2023\Développement d'applications (intermédiaire)\Travaux\Projet_Test\TEST\Projet_Test\obj\Debug\net5.0\ref\Projet_Test.dll
